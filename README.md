@@ -1,4 +1,5 @@
 Instruction:
+
 0. Install Python, Pip, VSCode
 1. Open terminal, navigate to this folder and run command: pip install -r requirements.txt
 2. Open this folder in VSCode or any editor support jupyter notebook extension
